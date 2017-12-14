@@ -1,0 +1,28 @@
+body{
+    background-color: #EA0B8C;
+}
+#splash {
+    position:absolute;
+    top:0;
+    left:0;
+    bottom:0;
+    width:100%;
+    background-color: #9C0575;
+    z-index: 99;
+}
+.radio{
+    width: 100%;
+    height: 700px !important;
+    background-position-y: center;
+    background-position-x: top;
+}
+.gif{
+    border: none;
+    width: 100%;
+    
+}
+.ly{
+    -webkit-filter: brightness(3000%);
+    height: 400px !important;
+}
+
